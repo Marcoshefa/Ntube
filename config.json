@@ -4,48 +4,6 @@
     "bg": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "github": "marcoshefa",
     "playlists": {
-        "jogos": [
-            {
-                "title": "Curso de Vue 3:#01",
-                "url": "https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL",
-                "thumb": "https://i.ytimg.com/vi/wsAQQioPIJs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDoh1N1B3wye2u7xkPLoN5V5QVkXA"
-            },
-            {
-                "title": "Curso de Vue 3:#02",
-                "url": "https://www.youtube.com/watch?v=-w1VVGycLRM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=2",
-                "thumb": "https://i.ytimg.com/vi/-w1VVGycLRM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbjtYv63G_FF5acma6rtZkMf8KJw"
-            },
-            {
-                "title": "GCurso de Vue 3:#03",
-                "url": "https://www.youtube.com/watch?v=bdD04cHOKfY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=3",
-                "thumb": "https://i.ytimg.com/vi/bdD04cHOKfY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApUBjru_Tx8kp_jzWUCgxtlaFAAQ"
-            },
-            {
-                "title": "Curso de Vue 3:#04",
-                "url": "https://www.youtube.com/watch?v=yrxG24n1oXI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=4",
-                "thumb": "https://i.ytimg.com/vi/yrxG24n1oXI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHNwpmmV2o8RMy3gjTFBLKUyFFZw"
-            },
-            {
-                "title": "Curso de Vue 3:#05",
-                "url": "https://www.youtube.com/watch?v=ec046jmrgXQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=5",
-                "thumb": "https://i.ytimg.com/vi/ec046jmrgXQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMVppOPc7n5VFzKK0OXI3BHyhq5Q"
-            },
-            {
-                "title": "Curso de Vue 3:#06",
-                "url": "https://www.youtube.com/watch?v=_BXj6CwuL0Q&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=6",
-                "thumb": "https://i.ytimg.com/vi/_BXj6CwuL0Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9TvghaE1eBYFzx8FNEbr6SH4v_Q"
-            },
-            {
-                "title": "Curso de Vue 3:#07",
-                "url": "https://www.youtube.com/watch?v=yzXOZZQPSeM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=7",
-                "thumb": "https://i.ytimg.com/vi/yzXOZZQPSeM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOiimBnbldAr1h2DVCo-P09a0mFw"
-            },
-            {
-                "title": "Curso de Vue 3:#08",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
-            }
-        ],
         "front-end": [
             {
                 "title": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
@@ -53,14 +11,14 @@
                 "thumb": "https://i.ytimg.com/vi/epDCjksKMok/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC_I7VV6tbpJLn9M3H_QwOAdLkIhg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+                "title": "Curso HTML5 - 01 - História da Internet - by Gustavo Guanabara",
+                "url": "https://www.youtube.com/watch?v=rsFCVjr5yxc&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=2",
+                "thumb": "https://i.ytimg.com/vi/rsFCVjr5yxc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCcKCYZ5aS1aNxER5JONbTpza2Z7w"
             },
             {
-                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+                "title": "Curso de HTML5 - 02 - História da HTML - by Gustavo Guanabara",
+                "url": "https://www.youtube.com/watch?v=NSmapCNcSyI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=3",
+                "thumb": "https://i.ytimg.com/vi/NSmapCNcSyI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6Us6s3WsyY120wKA0G9_318SrmA"
             },
             {
                 "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
@@ -93,22 +51,196 @@
                 "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
             }
         ],
+        "jogos": [
+            {
+                "title": "Curso de Vue 3:#01",
+                "url": "https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL",
+                "thumb": "https://i.ytimg.com/vi/wsAQQioPIJs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDoh1N1B3wye2u7xkPLoN5V5QVkXA"
+            },
+            {
+                "title": "Curso de Vue 3:#02",
+                "url": "https://www.youtube.com/watch?v=-w1VVGycLRM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=2",
+                "thumb": "https://i.ytimg.com/vi/-w1VVGycLRM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbjtYv63G_FF5acma6rtZkMf8KJw"
+            },
+            {
+                "title": "Curso de Vue 3:#03",
+                "url": "https://www.youtube.com/watch?v=bdD04cHOKfY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=3",
+                "thumb": "https://i.ytimg.com/vi/bdD04cHOKfY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApUBjru_Tx8kp_jzWUCgxtlaFAAQ"
+            },
+            {
+                "title": "Curso de Vue 3:#04",
+                "url": "https://www.youtube.com/watch?v=yrxG24n1oXI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=4",
+                "thumb": "https://i.ytimg.com/vi/yrxG24n1oXI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHNwpmmV2o8RMy3gjTFBLKUyFFZw"
+            },
+            {
+                "title": "Curso de Vue 3:#05",
+                "url": "https://www.youtube.com/watch?v=ec046jmrgXQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=5",
+                "thumb": "https://i.ytimg.com/vi/ec046jmrgXQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMVppOPc7n5VFzKK0OXI3BHyhq5Q"
+            },
+            {
+                "title": "Curso de Vue 3:#06",
+                "url": "https://www.youtube.com/watch?v=_BXj6CwuL0Q&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=6",
+                "thumb": "https://i.ytimg.com/vi/_BXj6CwuL0Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9TvghaE1eBYFzx8FNEbr6SH4v_Q"
+            },
+            {
+                "title": "Curso de Vue 3:#07",
+                "url": "https://www.youtube.com/watch?v=yzXOZZQPSeM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=7",
+                "thumb": "https://i.ytimg.com/vi/yzXOZZQPSeM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOiimBnbldAr1h2DVCo-P09a0mFw"
+            },
+            {
+                "title": "Curso de Vue 3:#08",
+                "url": "https://www.youtube.com/watch?v=H5PopRSJBTY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=8",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#09",
+                "url": "https://www.youtube.com/watch?v=5XJHIoK_nHU&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=9",
+                "thumb": "https://i.ytimg.com/vi/5XJHIoK_nHU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBETTkrbLdoYxrmsrVDv4sx4LwlgQ"
+            },
+            {
+                "title": "Curso de Vue 3:#10",
+                "url": "https://www.youtube.com/watch?v=FtcreaLDeWA&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=10",
+                "thumb": "https://i.ytimg.com/vi/FtcreaLDeWA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC6vOYRQSu3RDHvwhodufOMCictjw"
+            },
+            {
+                "title": "Curso de Vue 3:#11",
+                "url": "https://www.youtube.com/watch?v=745aPtV_W60&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=11",
+                "thumb": "https://i.ytimg.com/vi/745aPtV_W60/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDM6y79wns2U0PZ2W1f6_yr5BQ60Q"
+            },
+            {
+                "title": "Curso de Vue 3:#12",
+                "url": "https://www.youtube.com/watch?v=kMpeOHM4fZg&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=12",
+                "thumb": "https://i.ytimg.com/vi/kMpeOHM4fZg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxq9aSbhvrIUTF6j6JvdvgkblW4A"
+            },
+            {
+                "title": "Curso de Vue 3:#13",
+                "url": "https://www.youtube.com/watch?v=GvGYlBYtlAk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=13",
+                "thumb": "https://i.ytimg.com/vi/GvGYlBYtlAk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnwt5KuumaBQOsV_D2D-Y7zbrVjA"
+            },
+            {
+                "title": "Curso de Vue 3:#14",
+                "url": "https://www.youtube.com/watch?v=h8Z-pRhe-dw&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=14",
+                "thumb": "https://i.ytimg.com/vi/h8Z-pRhe-dw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCOuK1bIxtapisDRuDOG38xwrM3Q"
+            },
+            {
+                "title": "Curso de Vue 3:#15",
+                "url": "https://www.youtube.com/watch?v=AKXG0SblA1w&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=15",
+                "thumb": "https://i.ytimg.com/vi/njcYIgHhFMc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDF5jLOhzzPypWC5gl_NUARrVekCw"
+            },
+            {
+                "title": "Curso de Vue 3:#16",
+                "url": "https://www.youtube.com/watch?v=njcYIgHhFMc&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=16",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#17",
+                "url": "https://www.youtube.com/watch?v=-B78d9052zY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=17",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#18",
+                "url": "https://www.youtube.com/watch?v=RXldGbtzZdI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=18",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#19",
+                "url": "https://www.youtube.com/watch?v=CtVhIITICF8&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=19",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#20",
+                "url": "https://www.youtube.com/watch?v=bleEztMsSDk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=20",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#21",
+                "url": "https://www.youtube.com/watch?v=B5NX9oPf5fI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=21",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#22",
+                "url": "https://www.youtube.com/watch?v=UyOv6PTY50Y&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=22",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#23",
+                "url": "https://www.youtube.com/watch?v=ihCBurkrFyc&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=23",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#24",
+                "url": "https://www.youtube.com/watch?v=mCfqTo9LdL8&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=24",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#25",
+                "url": "https://www.youtube.com/watch?v=DxYc2CUan_4&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=25",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#26",
+                "url": "https://www.youtube.com/watch?v=Z5eTqFtCZHk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=26",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#27",
+                "url": "https://www.youtube.com/watch?v=5WXWoe2t_00&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=27",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#28",
+                "url": "https://www.youtube.com/watch?v=a5ALeXKWGJM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=28",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#29",
+                "url": "https://www.youtube.com/watch?v=noQdE8weGv4&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=29",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#30",
+                "url": "https://www.youtube.com/watch?v=a7Z-hoIfAnE&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=30",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#31",
+                "url": "https://www.youtube.com/watch?v=u8Nb1SBX-GQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=31",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#32",
+                "url": "https://www.youtube.com/watch?v=_i-vRSlKgkI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=32",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#33",
+                "url": "https://www.youtube.com/watch?v=Rq51X_-0QaU&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=33",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            },
+            {
+                "title": "Curso de Vue 3:#34",
+                "url": "https://www.youtube.com/watch?v=DU2mQusXf-s&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=34",
+                "thumb": "https://i.ytimg.com/vi/H5PopRSJBTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUnDdYtYiP55y9xMESKcoukr_0hw"
+            }
+        ],
+        
         "back-end": [
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+                "title": "Deploy // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=gJw7l2JKpuQ",
+                "thumb": "https://i.ytimg.com/vi/gJw7l2JKpuQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp-XNAhOkZsE5oTwr2u9njRHOYpg"
+            },
+            {
+                "title": "Microservices // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=_2bDOCTnbKc",
+                "thumb": "https://i.ytimg.com/vi/_2bDOCTnbKc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4foCNlkbnvLgo6YCZ7AaCiLHjJQ"
             },
             {
                 "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
                 "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
                 "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
             },
-            {
-                "title": "O que é o Java? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
-            },
+            
             {
                 "title": "O que é Machine Learning? #HipstersPontoTube",
                 "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
