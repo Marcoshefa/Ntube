@@ -40,7 +40,7 @@ export default function RegisterVideo() {
                         formCadastro.clearForm();
                     }}>
                         <div>
-                            <button className="close-modal" onClick={() => setFormVisivel(false)}>
+                            <button type="button" className="close-modal" onClick={() => setFormVisivel(false)}>
                                 x
                             </button>
                             <input placeholder="Titulo do video" 
