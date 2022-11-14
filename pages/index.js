@@ -1,23 +1,38 @@
 import React from "react";
 import config from "../config.json";
 import styled from "styled-components";
-import { CSSReset} from "../src/components/CSSReset";
-
+// import { CSSReset} from "../src/components/CSSReset";
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
+import { videoService } from "../src/services/videoService";
 
 // Para poder quebrar a linha do return é necessário acrescentar o parenteses
 function HomePage() {
-
-    const estilosDaHomePages = { 
-        // backgroundColor: "red" 
-    };
+    const service = videoService();
     const [valorDoFiltro, setValorDoFiltro] = React.useState("");
-  
+    const [playlists, setPlaylists] = React.useState({});
+ 
+    React.useEffect(() => {
+        console.log("useEffect");
+        service
+            .getAllVideos()
+            .then((dados) => { 
+                console.log(dados.data);
+                // forma imutavel
+                const novasPlaylists  = {...playlists};
+                dados.data.forEach((TbNTube) => {
+                    if(!novasPlaylists[TbNTube.playlist]) novasPlaylists[TbNTube.playlist]  = [];
+                    
+                    novasPlaylists[TbNTube.playlist].push(TbNTube);
+                })
+                setPlaylists(novasPlaylists)
+            });
+    }, []);
+
+    console.log("Playlists Pronto", playlists);
 
     return (
         <>
-            <CSSReset />
             <div style={{
                 display: "flex",
                 flexDirection: "column",
